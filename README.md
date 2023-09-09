@@ -3,8 +3,6 @@
 
 ### 📊 Stats
 
-![Stats Overview](https://github.com/rahul-jha98/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/rahul-jha98/github-stats-transparent/blob/output/generated/languages.svg)
 
 <!--
 **nerdrun/nerdrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
