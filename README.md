@@ -2,7 +2,7 @@
 [![Profile badge](https://www.codewars.com/users/nerdrun/badges/large)](https://www.codewars.com/users/nerdrun)
 
 ### 📖 Blog
-<a href="https://nerdrun.blog" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-z6p30263Kfy1u-tpFvxUBkCTXXpG_DhtrELdk0A0KveeZ3HuZ5j_8-MHzMl5IscPlUc68DLdBKm0CLNS9YsQlQzBA7ow=s1600" width="100"></a>
+<a href="https://nerdrun.blog"><img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-z6p30263Kfy1u-tpFvxUBkCTXXpG_DhtrELdk0A0KveeZ3HuZ5j_8-MHzMl5IscPlUc68DLdBKm0CLNS9YsQlQzBA7ow=s1600" width="100"></a>
 
 ### 📊 Stats
 
